@@ -1,0 +1,27 @@
+body {
+    font-family: arial, sans-serf;
+    line-height: 2;
+    margin:0;
+    padding:0;
+    background-color:rgba(190, 190, 190, 0.589);
+    color:rgb(112, 84, 48);}
+    header {
+        display: flex;
+        align-items: center;
+        background-color:rgb(255, 255, 255);
+        padding: 20px;
+        color:rgb(42, 88, 11); }
+    header img {
+        width: 250px;
+        height: auto;
+        mrgin-right: 20px; }
+    header h1 {
+        font-size: 2em;
+        margin: 0;
+        flex-glow: 1; }
+    header p {
+        margin: 0 1opx;
+        cursor: pointer;
+        color:rgb(136, 103, 69); }
+    header p:hover {
+        text-decoration: underline; } 
